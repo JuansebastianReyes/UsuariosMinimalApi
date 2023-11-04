@@ -1,0 +1,6 @@
+.vscode/
+
+**/out/**
+**/bin/**
+**/obj/**
+./node_modules/**
